@@ -1,15 +1,15 @@
-# shahboz1
+# Shahboz Sattorov  Rasmiy Web-Sayti
 
-A new Flutter project.
+Flutter Framework-ida yozilgan.
 
-## Getting Started
+## Sayt haqida
 
-This project is a starting point for a Flutter application.
+Saytda Shahboz Sattorovning Instagram, Telegram, Tik-Tok, YouTube sahifalariga havolalar berilgan!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Instagram](https://www.instagram.com/shahboz_sattorov1)
+- [YouTube](https://www.youtube.com/c/ShahbozSattorov)
+- [Telegram](https://t.me/Shahboz_Sattorov)
+- [Tik-Tok](https://www.tiktok.com/@shahboz_sattorov)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
